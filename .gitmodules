@@ -1,0 +1,3 @@
+[submodule "emfi-tool"]
+	path = emfi-tool
+	url = https://github.com/HWS-XMS/ShoutDUINO.git
