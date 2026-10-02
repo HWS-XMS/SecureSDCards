@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# OS
+.DS_Store
+
+# KiCad
+*-backups/
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-bak
+_autosave-*
+*.000
+
+# Editor
+*~
